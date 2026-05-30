@@ -1,1 +1,12 @@
-
+{
+  "v": 1,
+  "keys": [
+    {
+      "h": "a798837179e8f7ab775c974ad395aa9a1fef2653e3399ae9be0153ca4b206aa1",
+      "label": "LDC",
+      "created": "2026-05-30",
+      "expires": "2026-06-29",
+      "active": true
+    }
+  ]
+}
