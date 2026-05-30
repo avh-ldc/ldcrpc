@@ -7,6 +7,13 @@
       "created": "2026-05-30",
       "expires": "2026-06-29",
       "active": true
+    },
+    {
+      "h": "bf2d5fd6e7dce47114448ec69ced6f5a0a53131fd621b7d33d0c4efad3d824f8",
+      "label": "Kikou",
+      "created": "2026-05-30",
+      "expires": null,
+      "active": true
     }
   ]
 }
