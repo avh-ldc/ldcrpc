@@ -41,7 +41,7 @@
       "label": "Test caca prout",
       "created": "2026-06-01",
       "expires": "2026-07-01",
-      "active": true
+      "active": false
     }
   ]
 }
